@@ -1,4 +1,4 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Twitter*
 
 Twitter is a basic twitter app to read your tweets.
 
@@ -25,3 +25,6 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/tS4pLiMG8N.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+Here's a follow-up gif demonstrating that user stays logged in across restarts!
+
+<img src='http://g.recordit.co/c4nKHIHRh9.gif' title='Stay Logged In' width='' alt='Stay Logged In' />
